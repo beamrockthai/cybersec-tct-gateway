@@ -38,6 +38,7 @@ Strapi gives you many possible deployment options for your project including [St
 
 ```
 yarn strapi deploy
+test
 ```
 
 ## 📚 Learn more
